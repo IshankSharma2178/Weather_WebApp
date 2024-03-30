@@ -210,7 +210,7 @@ h1{
 }
 .error img{
     width: 25rem;
-    height: 25rem;
+    height: 24rem;
 }
 .error :nth-child(1){
     font-size:2rem ;
