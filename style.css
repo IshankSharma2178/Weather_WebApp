@@ -230,6 +230,7 @@ h1{
         margin-bottom: 50px;
     }
     h1{
+        padding-top:15px ;
         font-size: 2rem;
     }
     .tab{
