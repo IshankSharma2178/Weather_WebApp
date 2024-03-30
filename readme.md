@@ -1,1 +1,1 @@
--- https://ishanksharma2178.github.io/Weather_WebApp/
+-- https://weather-web-app-murex.vercel.app/
